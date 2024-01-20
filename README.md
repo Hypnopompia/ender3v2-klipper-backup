@@ -1,4 +1,2 @@
 # klipper-backup 💾 
-Klipper backup script for manual or automated GitHub backups 
-
-This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
+My klipper config files for my Ender 3 v2 3D Printer.
